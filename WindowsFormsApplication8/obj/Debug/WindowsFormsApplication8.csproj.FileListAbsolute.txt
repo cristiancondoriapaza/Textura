@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2012\Projects\CLASIFICACION DE TEXTURAS\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+c:\users\admin\documents\visual studio 2012\Projects\CLASIFICACION DE TEXTURAS\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+c:\users\admin\documents\visual studio 2012\Projects\CLASIFICACION DE TEXTURAS\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\CLASIFICACION DE TEXTURAS\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\CLASIFICACION DE TEXTURAS\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\CLASIFICACION DE TEXTURAS\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\CLASIFICACION DE TEXTURAS\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+c:\users\admin\documents\visual studio 2012\Projects\CLASIFICACION DE TEXTURAS\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+F:\PROYECTO MULTIMEDIA\CLASIFICACION DE TEXTURAS\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+F:\PROYECTO MULTIMEDIA\CLASIFICACION DE TEXTURAS\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+F:\PROYECTO MULTIMEDIA\CLASIFICACION DE TEXTURAS - copia\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+F:\PROYECTO MULTIMEDIA\CLASIFICACION DE TEXTURAS - copia\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
